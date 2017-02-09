@@ -44,10 +44,20 @@ div {
     background-color: gray;
     text-align: center;
 }
-#tagline, #go-round-splash img {
+
+#go-round-splash{
     height: 500px;
-    width: 100%;
+    position: relative;
+    margin: 0 auto;
+    overflow-y: hidden;
+}
+
+#go-round-splash img{
     z-index: 0;
+}
+
+#tagline, #go-round-splash img {
+    width: 100%;
 }
 
 #logo{
