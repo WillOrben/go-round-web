@@ -1,0 +1,92 @@
+body {
+    background-color: white;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 0;
+}
+div {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    width: 100%;
+}
+
+#navbar{
+    width: 100%;
+    table-layout: auto;
+}
+
+#navbar td {
+    padding-top: 20px;
+}
+
+#navbar td a{
+    color: black;
+    text-decoration: none;
+}
+
+#navbar .tab{
+    font-size: 15pt;
+    padding-left: 30px;
+}
+
+#navbar .icon{
+    font-size: 15pt;
+    padding-right: 40px;
+}
+
+#splash {
+    background-color: white;
+}
+#tagline, #copyright {
+    width: 100%;
+    background-color: gray;
+    text-align: center;
+}
+#tagline {
+    height: 500px;
+}
+#tagline img {
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+}
+#logo{
+    width: 200px;
+}
+#body{
+    padding-top: 30px;
+    line-height: 1.5;
+    background-color: white;
+    margin-bottom: 100px;
+}
+
+#body h1{
+    text-align: center;
+    color: #333333;
+}
+
+#body h3{
+    text-align: center;
+    color: #aaaaaa;
+}
+
+#body p{
+    margin-left: 15%;
+    margin-right: 15%;
+    text-indent: 2.0em;
+    color: #555555;
+}
+
+#copyright {
+    color: white;
+    bottom: 0;
+    position: static;
+    padding-top: 10px;
+}
+
+#outline{
+    width: 100%;
+    text-align: center;
+}
