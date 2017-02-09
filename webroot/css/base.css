@@ -39,7 +39,7 @@ div {
 #splash {
     background-color: white;
 }
-#tagline, #copyright {
+#copyright {
     width: 100%;
     background-color: gray;
     text-align: center;
