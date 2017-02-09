@@ -44,14 +44,12 @@ div {
     background-color: gray;
     text-align: center;
 }
-#tagline {
+#tagline, #go-round-splash img {
     height: 500px;
+    width: 100%;
+    z-index: 0;
 }
-#tagline img {
-    width: 70%;
-    margin-right: auto;
-    margin-left: auto;
-}
+
 #logo{
     width: 200px;
 }
@@ -89,4 +87,11 @@ div {
 #outline{
     width: 100%;
     text-align: center;
+}
+
+.overlay{
+    position: absolute;
+    width: 40%;
+    left: 30%;
+    z-index: 3;
 }

@@ -48,6 +48,7 @@
     <p>Copyright &copy; 2016 - Go Round</p>
 </div>
 <footer>
+    <script src="/js/jquery-3.1.1.min.js"></script>
     <?php $this->js(); ?>
 </footer>
 </body>
