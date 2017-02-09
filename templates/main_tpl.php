@@ -17,7 +17,7 @@
                 <a href="#">The Design</a>
             </td>
             <td class="pull-left tab">
-                <a href="#">Our Team</a>
+                <a href="/team">Our Team</a>
             </td>
             <td class="pull-left tab">
                 <a href="#">About Us</a>

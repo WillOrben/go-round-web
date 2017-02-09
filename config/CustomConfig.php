@@ -20,6 +20,58 @@ happiness in life, is, and never should have been taken as a true fact. We are a
 all lack a high school diploma let alone any sort of degree earned in the institutions of higher education. Our ability
 to swim against every current set before us, in its simplest form, defines to us the beauty of being.";
 
+
+$_CONFIG['team:members'] = array(
+    array(
+        "name" => "Bear Matthews",
+        "position" => "Chief Executive Officer / Founding Member",
+        "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
+        "bitmoji" => "https://ih0.redbubble.net/image.225605547.8598/flat,800x800,075,f.jpg"
+    ),
+    array(
+        "name" => "Sebastian Rodriguez",
+        "position" => "Chief Design Officer / Founding Member",
+        "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
+        "bitmoji" => "https://ih0.redbubble.net/image.225605547.8598/flat,800x800,075,f.jpg"
+    ),
+    array(
+        "name" => "Daniel Barnes",
+        "position" => "Chief Operating Officer / Founding Member",
+        "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
+        "bitmoji" => "https://ih0.redbubble.net/image.225605547.8598/flat,800x800,075,f.jpg"
+    ),
+    array(
+        "name" => "Christopher Elwell",
+        "position" => "Chief Financial Officer",
+        "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
+        "bitmoji" => "https://ih0.redbubble.net/image.225605547.8598/flat,800x800,075,f.jpg"
+    ),
+    array(
+        "name" => "Max Gregori",
+        "position" => "Chief Marketing Officer",
+        "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
+        "bitmoji" => "https://ih0.redbubble.net/image.225605547.8598/flat,800x800,075,f.jpg"
+    ),
+    array(
+        "name" => "Paul Shin",
+        "position" => "Marketing Designer",
+        "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
+        "bitmoji" => "https://ih0.redbubble.net/image.225605547.8598/flat,800x800,075,f.jpg"
+    ),
+    array(
+        "name" => "Alex Seibert",
+        "position" => "Ad Management",
+        "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
+        "bitmoji" => "https://ih0.redbubble.net/image.225605547.8598/flat,800x800,075,f.jpg"
+    ),
+    array(
+        "name" => "Spencer Dellenbaugh",
+        "position" => "Web Development",
+        "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
+        "bitmoji" => "https://ih0.redbubble.net/image.225605547.8598/flat,800x800,075,f.jpg"
+    )
+);
+
 $_CONFIG['main:title'] = 'Go Round';
 
 include('../libs/Handler.class.php');
