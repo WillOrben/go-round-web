@@ -26,49 +26,49 @@ $_CONFIG['team:members'] = array(
         "name" => "Bear Matthews",
         "position" => "Chief Executive Officer / Founding Member",
         "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
-        "bitmoji" => "https://ih0.redbubble.net/image.225605547.8598/flat,800x800,075,f.jpg"
+        "bitmoji" => "/img/team/bear-matthews.png"
     ),
     array(
         "name" => "Sebastian Rodriguez",
         "position" => "Chief Design Officer / Founding Member",
         "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
-        "bitmoji" => "https://ih0.redbubble.net/image.225605547.8598/flat,800x800,075,f.jpg"
+        "bitmoji" => "/img/team/sebastian-rodriguez.png"
     ),
     array(
         "name" => "Daniel Barnes",
         "position" => "Chief Operating Officer / Founding Member",
         "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
-        "bitmoji" => "https://ih0.redbubble.net/image.225605547.8598/flat,800x800,075,f.jpg"
+        "bitmoji" => "/img/team/daniel-barnes.png"
     ),
     array(
         "name" => "Christopher Elwell",
         "position" => "Chief Financial Officer",
         "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
-        "bitmoji" => "https://ih0.redbubble.net/image.225605547.8598/flat,800x800,075,f.jpg"
+        "bitmoji" => "/img/team/chris-elwell.png"
     ),
     array(
         "name" => "Max Gregori",
         "position" => "Chief Marketing Officer",
         "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
-        "bitmoji" => "https://ih0.redbubble.net/image.225605547.8598/flat,800x800,075,f.jpg"
+        "bitmoji" => "/img/team/max-gregori.png"
     ),
     array(
         "name" => "Paul Shin",
         "position" => "Marketing Designer",
         "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
-        "bitmoji" => "https://ih0.redbubble.net/image.225605547.8598/flat,800x800,075,f.jpg"
+        "bitmoji" => "/img/team/paul-shin.png"
     ),
     array(
         "name" => "Alex Seibert",
         "position" => "Ad Management",
         "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
-        "bitmoji" => "https://ih0.redbubble.net/image.225605547.8598/flat,800x800,075,f.jpg"
+        "bitmoji" => "/img/team/alex-seibert.png"
     ),
     array(
         "name" => "Spencer Dellenbaugh",
         "position" => "Web Development",
         "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
-        "bitmoji" => "https://ih0.redbubble.net/image.225605547.8598/flat,800x800,075,f.jpg"
+        "bitmoji" => "/img/team/spencer-dellenbaugh.png"
     )
 );
 

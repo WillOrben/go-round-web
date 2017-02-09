@@ -5,7 +5,7 @@ foreach(get('team:members') as $person){
         ?>
         <div class="row">
             <div class="col-md-3">
-                <img style="width: 200px;" src="<?=$person['bitmoji'];?>">
+                <img style="width: 200px; float: right;" src="<?=$person['bitmoji'];?>">
             </div>
             <div class="col-md-9">
                 <h5><?=$person['name'];?></h5>
@@ -13,21 +13,19 @@ foreach(get('team:members') as $person){
                 <p><?=$person['biography'];?></p>
             </div>
         </div>
-        ';
          <?php
     } else {
         ?>
         <div class="row">
-        <div class="col-md-9" style="text-align: right;">
-            <h5><?=$person['name'];?></h5>
-            <p class="muted"><?=$person['position'];?></p>
-            <p><?=$person['biography'];?></p>
+            <div class="col-md-9" style="text-align: right;">
+                <h5><?=$person['name'];?></h5>
+                <p class="muted"><?=$person['position'];?></p>
+                <p><?=$person['biography'];?></p>
+            </div>
+            <div class="col-md-3">
+                <img style="width: 200px;" src="<?=$person['bitmoji'];?>">
+            </div>
         </div>
-        <div class="col-md-3">
-            <img style="width: 200px;" src="<?=$person['bitmoji'];?>">
-        </div>
-        </div>
-        ';
     <?php
     }
     $i++;
