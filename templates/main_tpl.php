@@ -46,7 +46,7 @@
     </div>
 </div>
 <div id="copyright">
-    <p>Copyright &copy; 2016 - Go Round</p>
+    <p>Copyright &copy; 2017 - Go Round</p>
 </div>
 <footer>
     <script src="/js/jquery-3.1.1.min.js"></script>
