@@ -60,6 +60,10 @@ div {
     width: 100%;
 }
 
+#go-round-splash{
+    box-shadow: 0 5px 2px 1px gray, 0 -5px 2px 1px gray;
+}
+
 #logo{
     width: 200px;
 }
