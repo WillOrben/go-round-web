@@ -40,43 +40,19 @@
         <div class="col-md-4">
             <i class="fa fa-paint-brush fa-5x" style="color: #3AB44B;"></i>
             <h2>The Design</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                Ut enim ad minim veniam, quis nostrud
-                exercitation ullamco laboris nisi ut aliquip ex ea
-                commodo consequat. Duis aute irure dolor in
-                reprehenderit in voluptate velit esse cillum
-                dolore eu fugiat nulla pariatur.
-                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                officia deserunt mollit anim id est laborum.</p>
+            <p><?=get('index:splash:design');?></p>
         </div>
         <div class="col-md-4">
             <i class="fa fa-code fa-5x" style="color: #006FBA;"></i>
 
             <h2>The Algorithm</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                Ut enim ad minim veniam, quis nostrud
-                exercitation ullamco laboris nisi ut aliquip ex ea
-                commodo consequat. Duis aute irure dolor in
-                reprehenderit in voluptate velit esse cillum
-                dolore eu fugiat nulla pariatur.
-                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                officia deserunt mollit anim id est laborum.</p>
+            <p><?=get('index:splash:algorithm');?></p>
         </div>
         <div class="col-md-4">
             <i class="fa fa-users fa-5x" style="color: #C0282D;"></i>
 
             <h2>The Team</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                Ut enim ad minim veniam, quis nostrud
-                exercitation ullamco laboris nisi ut aliquip ex ea
-                commodo consequat. Duis aute irure dolor in
-                reprehenderit in voluptate velit esse cillum
-                dolore eu fugiat nulla pariatur.
-                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                officia deserunt mollit anim id est laborum.</p>
+            <p><?=get('index:splash:team');?></p>
         </div>
     </div>
 </div>
