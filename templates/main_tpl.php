@@ -22,6 +22,11 @@
             <td class="pull-left tab">
                 <a href="#">About Us</a>
             </td>
+            <?php if($template != "index"): ?>
+            <td style="position: relative; padding-top: 10px;">
+                <a href="/"><img src="/img/GR_logo_green_space.png" style="height: 60px;"/></a>
+            </td>
+            <?php endif; ?>
             <td class="pull-right icon">
                 <i class="fa fa-instagram" aria-hidden="true" style="color: #936C0C;"></i>
             </td>
@@ -33,6 +38,7 @@
             </td>
         <tr>
     </table>
+    <?= $template != "index" ? "<hr style='margin-top: 0;'/>" : ""; ?>
 </div>
 <div class="content">
     <div class="head">
