@@ -40,7 +40,7 @@ class PageHandler {
     public function __construct($template = "index", $pass = array()){
         $this->template = $template;
         $this->pass = $pass;
-        include('../system/main_tpl.php');
+        include('../templates/main_tpl.php');
     }
 
     public function title(){
