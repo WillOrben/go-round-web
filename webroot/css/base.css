@@ -106,8 +106,13 @@ div {
     z-index: 3;
 }
 
-hr{
+hr.pagebreak{
     width: 80%;
     margin-top: 50px;
     margin-bottom: 50px;
+}
+
+#kickstarter{
+    width: 100%;
+    background-color: #652D8F;
 }

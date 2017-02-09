@@ -35,7 +35,7 @@
 <div id="body">
     <h1><em>Where will we go tonight?</em></h1>
     <h3 class="muted">The most efficient and personalized restaurant-finding application.</h3>
-    <hr/>
+    <hr class="pagebreak"/>
     <div class="row" id="outline">
         <div class="col-md-4">
             <i class="fa fa-paint-brush fa-5x" style="color: #3AB44B;"></i>
@@ -55,4 +55,7 @@
             <p><?=get('index:splash:team');?></p>
         </div>
     </div>
+</div>
+<div id="kickstarter">
+<h1 style="font-size: 300pt; color: white; text-align: center;">BOI</h1>
 </div>
