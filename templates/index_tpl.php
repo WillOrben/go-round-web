@@ -38,13 +38,13 @@
     <hr/>
     <table id="outline">
         <tr>
-            <td><i class="fa fa-paint-brush fa-5x"></i></td>
-            <td><i class="fa fa-code fa-5x"></i></td>
-            <td><i class="fa fa-users fa-5x"></i></td>
+            <td><i class="fa fa-paint-brush fa-5x" style="color: #3AB44B;"></i></td>
+            <td><i class="fa fa-code fa-5x" style="color: #006FBA;"></i></td>
+            <td><i class="fa fa-users fa-5x" style="color: #C0282D;"></i></td>
         </tr>
         <tr>
             <td>
-                <h3>The Design</h3>
+                <h2>The Design</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                     eiusmod tempor incididunt ut labore et dolore magna aliqua.
                     Ut enim ad minim veniam, quis nostrud
@@ -56,7 +56,7 @@
                     officia deserunt mollit anim id est laborum.</p>
             </td>
             <td>
-                <h3>The Algorithm</h3>
+                <h2>The Algorithm</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                     eiusmod tempor incididunt ut labore et dolore magna aliqua.
                     Ut enim ad minim veniam, quis nostrud
@@ -68,7 +68,7 @@
                     officia deserunt mollit anim id est laborum.</p>
             </td>
             <td>
-                <h3>The Team</h3>
+                <h2>The Team</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                     eiusmod tempor incididunt ut labore et dolore magna aliqua.
                     Ut enim ad minim veniam, quis nostrud

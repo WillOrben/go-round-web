@@ -22,13 +22,13 @@
                 <a href="#">About Us</a>
             </td>
             <td class="pull-right icon">
-                <i class="fa fa-instagram" aria-hidden="true"></i>
+                <i class="fa fa-instagram" aria-hidden="true" style="color: #936C0C;"></i>
             </td>
             <td class="pull-right icon">
-                <i class="fa fa-twitter" aria-hidden="true"></i>
+                <i class="fa fa-twitter" aria-hidden="true" style="color: #0681B5;"></i>
             </td>
             <td class="pull-right icon">
-                <i class="fa fa-facebook" aria-hidden="true"></i>
+                <i class="fa fa-facebook" aria-hidden="true" style="color: #2F559B;"></i>
             </td>
         <tr>
     </table>
