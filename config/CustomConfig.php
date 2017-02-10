@@ -24,19 +24,19 @@ to swim against every current set before us, in its simplest form, defines to us
 $_CONFIG['team:members'] = array(
     array(
         "name" => "Bear Matthews",
-        "position" => "Chief Executive Officer / Founding Member",
+        "position" => "Chief Executive Officer / Co-Founder",
         "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
         "bitmoji" => "/img/team/bear-matthews.png"
     ),
     array(
         "name" => "Sebastian Rodriguez",
-        "position" => "Chief Design Officer / Founding Member",
+        "position" => "Chief Design Officer / Co-Founder",
         "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
         "bitmoji" => "/img/team/sebastian-rodriguez.png"
     ),
     array(
         "name" => "Daniel Barnes",
-        "position" => "Chief Operating Officer / Founding Member",
+        "position" => "Chief Operating Officer / Co-Founder",
         "biography" => "dsajfks;ajfk;lsajdfkl;ajfsdkl",
         "bitmoji" => "/img/team/daniel-barnes.png"
     ),
