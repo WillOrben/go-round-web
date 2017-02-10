@@ -56,6 +56,15 @@
         </div>
     </div>
 </div>
-<div id="kickstarter">
-<h1 style="font-size: 300pt; color: white; text-align: center;">BOI</h1>
+<div id="kickstarter" class="row">
+    <div class="col-md-8" id="ks-wrapper">
+        <div id="ks-wrapper-2">
+        <iframe src="https://www.kickstarter.com/projects/goround/goround-development/widget/video.html"
+            style="margin-bottom: 40px; margin-top: 40px; float: right;" height="450" width="800" frameborder="0" scrolling="no"></iframe>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <iframe src="https://www.kickstarter.com/projects/goround/goround-development/widget/card.html?v=2"
+                style="margin-top: 40px; position: absolute; padding-top: 30px;" height="420" width="220" frameborder="0" scrolling="no"></iframe>
+     </div>
 </div>
