@@ -57,14 +57,33 @@
     </div>
 </div>
 <div id="kickstarter" class="row">
-    <div class="col-md-8" id="ks-wrapper">
+    <div class="col-md-6" id="ks-wrapper">
         <div id="ks-wrapper-2">
         <iframe src="https://www.kickstarter.com/projects/goround/goround-development/widget/video.html"
             style="margin-bottom: 40px; margin-top: 40px; float: right;" height="450" width="800" frameborder="0" scrolling="no"></iframe>
         </div>
     </div>
-    <div class="col-md-4">
-        <iframe src="https://www.kickstarter.com/projects/goround/goround-development/widget/card.html?v=2"
-                style="margin-top: 40px; position: absolute; padding-top: 30px;" height="420" width="220" frameborder="0" scrolling="no"></iframe>
-     </div>
+    <div class="col-md-6" style="padding-left: 60px;" id="media-campaign">
+        <h3>Media Campaign</h3>
+        <p>Lorem ipsum dasfhksadf dfas dsf dfs dfsa dsfa dsf a dsf dfs dfs adsf df as dsfa dasf dsfa dsfa
+        dasfsfad dsfa dsf adsf df sa adsf dfas dfas dsf a df dsfa adsf  dsfa dsaf sfad fads  dsfa fdas dfasdsfa
+        dsfa fdsa dfas  dfafd a adf dfas dfas dfas dfas  adsf adfs adsf adsf  dfas fads dfas  fdas dfas df sa
+        dfs dfas  dfas dfas dfs dfas adsf  dasf dsfa adsf  dfas asd f dsa fasdfsadfsadf sad sfad  dsf</p>
+        <div style="width: 100%;">
+            <div style="margin-left: auto; margin-right: auto;">
+                <a href="#"  class="presskit-link" style="display: inline;">
+                    <div style="display: inline; text-align: center; margin-left: 10px; margin-right: 10px;">
+                        <p style="margin: 0;"><i class="fa fa-paperclip fa-4x"
+                         aria-hidden="true"></i><br/>Press Kit</p>
+                    </div>
+                </a>
+                <a href="#"  class="kickstarter-link" style="display: inline;">
+                    <div style="display: inline; text-align: center; margin-left: 10px; margin-right: 10px;">
+                        <p style="margin: 0;"><img src="/img/kickstarter-logo.png" style="width: 80px;"
+                                                 aria-hidden="true"></i><br/>Kickstarter</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
 </div>

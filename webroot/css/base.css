@@ -115,3 +115,35 @@ hr.pagebreak{
 #kickstarter{
     background-color: #652D8F;
 }
+
+#media-campaign{
+    color: white;
+    margin-top: 40px;
+    padding-right: 80px;
+}
+
+#media-campaign h3{
+    font-size: 30pt;
+}
+
+#media-campaign p{
+    font-size: 18pt;
+}
+
+.presskit-link{
+    color: white;
+}
+
+#kickstarter a:active,
+#kickstarter a:link,
+#kickstarter a:visited,
+#kickstarter a:hover,
+#kickstarter a:focus{
+    text-decoration: none;
+    color: white;
+}
+
+a{
+    color: inherit;
+    text-decoration: inherit;
+}
